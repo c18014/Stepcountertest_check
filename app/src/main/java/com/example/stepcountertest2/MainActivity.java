@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
             "MAGNETIC_FIELD", "MAGNETIC_FIELD_UNCALIBRATED", "MOTION_DETECT",
             "POSE_6DOF", "PRESSURE","PROXIMITY", "RELATIVE_HUMIDITY", "ROTATION_VECTOR",
             "SIGNIFICANT_MOTION", "STATIONARY_DETECT", "STEP_COUNTER", "STEP_DETECTOR",
+
+
+            
     };
 
     @Override
